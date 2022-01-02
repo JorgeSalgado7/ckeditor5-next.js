@@ -1,7 +1,7 @@
 {
-  "name": "@jorge-salgado/ckeditor",
-  "version": "1.0.1",
-  "description": "Custom CKEditor 5 component.",
+  "name": "@jorge-salgado/ckeditor5-next.js",
+  "version": "1.0.2",
+  "description": "Custom CKEditor 5 component for Next.js apps.",
   "main": "./build/ckeditor.js",
   "scripts": {
     "build": "webpack --mode production"
@@ -37,10 +37,11 @@
     "webpack-cli": "^4.9.1"
   },
   "keywords": [
-    "Custom CKEditor5",
+    "CKEditor5",
     "CKEditor 5",
     "CKEditor",
-    "CKEditor JS"
+    "CKEditor 5 Next.js",
+    "Next.js"
   ],
   "author": "Jorge Salgado",
   "license": "ISC",
