@@ -1,6 +1,6 @@
 {
   "name": "@jorge-salgado/ckeditor5-next.js",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Custom CKEditor 5 component for Next.js apps.",
   "main": "./build/ckeditor.js",
   "scripts": {
@@ -47,12 +47,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JorgeSalgado7/jorge-salgado-ckeditor.git"
+    "url": "https://github.com/JorgeSalgado7/ckeditor5-next.js.git"
   },
   "bugs": {
-    "url": "https://github.com/JorgeSalgado7/jorge-salgado-ckeditor.git/issues"
+    "url": "https://github.com/JorgeSalgado7/ckeditor5-next.js.git/issues"
   },
-  "homepage": "https://github.com/JorgeSalgado7/jorge-salgado-ckeditor.git#readme"
+  "homepage": "https://github.com/JorgeSalgado7/ckeditor5-next.js.git#readme"
   
   
   
